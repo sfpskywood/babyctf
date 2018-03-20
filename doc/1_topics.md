@@ -22,5 +22,4 @@ binwalk、 Stegsolve、 Wireshark
 - [1.1 隐写 Steganography](1.1_steganography.md)
 - [1.2 编码 Encode](1.2_encode.md)
 - [1.3 网络 Network](1.3_network.md)
-- [1.4 取证 Forensic](1.4_forensic.md)
-- [1.5 其他 Others](1.5_others.md)
+- [1.4 其他 Others](1.4_others.md)
