@@ -24,9 +24,9 @@ Summary:
 
 * [A1. Penetration test resources](doc/A1_penetration_test_resources.md)
 
-* [A2. CVE study]
+* [A2. CVE](doc/A2_cve.md)
     * [A2.1 My CVE](doc/A2.1_my_cve.md)
-    * [A2.2 CVE study](doc/A2.2_cve.md)
+    * [A2.2 CVE research](doc/A2.2_cve_research.md)
 
 Some excellent WAR games:
 
