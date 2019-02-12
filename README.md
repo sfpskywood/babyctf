@@ -22,6 +22,12 @@ Summary:
       * [4.1.2 ARM](doc/4.1.2_arm_exp.md)
 * [5. Web](doc/5_topics.md)
 
+* [A1. Penetration test resources](doc/A1_penetration_test_resources.md)
+
+* [A2. CVE study]
+    * [A2.1 My CVE](doc/A2.1_my_cve.md)
+    * [A2.2 CVE study](doc/A2.2_cve.md)
+
 Some excellent WAR games:
 
 https://www.root-me.org/
