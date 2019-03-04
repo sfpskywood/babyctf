@@ -21,6 +21,7 @@ Summary:
    * [4.1 Pwn training](doc/4_pwn.md)
       * [4.1.2 ARM](doc/4.1.2_arm_exp.md)
 * [5. Web](doc/5_topics.md)
+   * [5.1 Web_security basic](doc/5.1_web_basic.md)
 
 * [A1. Penetration test resources](doc/A1_penetration_test_resources.md)
 
