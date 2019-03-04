@@ -23,12 +23,6 @@ Summary:
 * [5. Web](doc/5_topics.md)
    * [5.1 Web_security basic](doc/5.1_web_basic.md)
 
-* [A1. Penetration test resources](doc/A1_penetration_test_resources.md)
-
-* [A2. CVE](doc/A2_cve.md)
-    * [A2.1 My CVE](doc/A2.1_my_cve.md)
-    * [A2.2 CVE research](doc/A2.2_cve_research.md)
-
 Some excellent WAR games:
 
 https://www.root-me.org/
