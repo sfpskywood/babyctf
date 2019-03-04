@@ -23,19 +23,6 @@ Summary:
 * [5. Web](doc/5_topics.md)
    * [5.1 Web security basic](doc/5.1_web_basic.md)
 
-Some excellent WAR games:
-
-https://www.root-me.org/
-
-https://ringzer0team.com/
-
-https://www.wechall.net/
-
-http://pwnable.kr/
-
-http://pwnable.tw/
-
-http://www.shiyanbar.com/
 
 Play CTF:
 https://ctftime.org/
