@@ -1,0 +1,36 @@
+## 4.1.3 heap fastbins attack
+
+Write basic framework
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+from pwn import *
+from time import sleep
+context.binary = './pwn'
+elf = context.binary
+libc = elf.libc
+p = process('./pwn')
+
+def show():
+    p.sendlineafter(':', '1')
+
+def add(length, name):
+    p.sendlineafter(':', '2')
+    p.sendlineafter(':', str(length))
+    p.sendafter(':', name)
+    sleep(0.01)
+
+def edit(idx, length, name):
+    p.sendlineafter(':', '3')
+    p.sendlineafter(':', idx)
+    p.sendlineafter(':', str(length))
+    p.sendafter(':', name)
+    sleep(0.01)
+
+def delete():
+    p.sendlineafter(':', '4')
+
+p.interactive()
+```
+
